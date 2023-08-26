@@ -1,0 +1,13 @@
+D:\Coder\Code\dotnet\LearnDotne\CSHelloWorld\CSHelloWorld\bin\Debug\netcoreapp3.1\CSHelloWorld.exe
+D:\Coder\Code\dotnet\LearnDotne\CSHelloWorld\CSHelloWorld\bin\Debug\netcoreapp3.1\CSHelloWorld.deps.json
+D:\Coder\Code\dotnet\LearnDotne\CSHelloWorld\CSHelloWorld\bin\Debug\netcoreapp3.1\CSHelloWorld.runtimeconfig.json
+D:\Coder\Code\dotnet\LearnDotne\CSHelloWorld\CSHelloWorld\bin\Debug\netcoreapp3.1\CSHelloWorld.runtimeconfig.dev.json
+D:\Coder\Code\dotnet\LearnDotne\CSHelloWorld\CSHelloWorld\bin\Debug\netcoreapp3.1\CSHelloWorld.dll
+D:\Coder\Code\dotnet\LearnDotne\CSHelloWorld\CSHelloWorld\bin\Debug\netcoreapp3.1\CSHelloWorld.pdb
+D:\Coder\Code\dotnet\LearnDotne\CSHelloWorld\CSHelloWorld\obj\Debug\netcoreapp3.1\CSHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coder\Code\dotnet\LearnDotne\CSHelloWorld\CSHelloWorld\obj\Debug\netcoreapp3.1\CSHelloWorld.AssemblyInfoInputs.cache
+D:\Coder\Code\dotnet\LearnDotne\CSHelloWorld\CSHelloWorld\obj\Debug\netcoreapp3.1\CSHelloWorld.AssemblyInfo.cs
+D:\Coder\Code\dotnet\LearnDotne\CSHelloWorld\CSHelloWorld\obj\Debug\netcoreapp3.1\CSHelloWorld.csproj.CoreCompileInputs.cache
+D:\Coder\Code\dotnet\LearnDotne\CSHelloWorld\CSHelloWorld\obj\Debug\netcoreapp3.1\CSHelloWorld.dll
+D:\Coder\Code\dotnet\LearnDotne\CSHelloWorld\CSHelloWorld\obj\Debug\netcoreapp3.1\CSHelloWorld.pdb
+D:\Coder\Code\dotnet\LearnDotne\CSHelloWorld\CSHelloWorld\obj\Debug\netcoreapp3.1\CSHelloWorld.genruntimeconfig.cache
