@@ -1,0 +1,13 @@
+D:\Coder\Code\dotnet\LearnDotne\CS_StructEnum\CS_StructEnum\bin\Debug\netcoreapp3.1\CS_StructEnum.exe
+D:\Coder\Code\dotnet\LearnDotne\CS_StructEnum\CS_StructEnum\bin\Debug\netcoreapp3.1\CS_StructEnum.deps.json
+D:\Coder\Code\dotnet\LearnDotne\CS_StructEnum\CS_StructEnum\bin\Debug\netcoreapp3.1\CS_StructEnum.runtimeconfig.json
+D:\Coder\Code\dotnet\LearnDotne\CS_StructEnum\CS_StructEnum\bin\Debug\netcoreapp3.1\CS_StructEnum.runtimeconfig.dev.json
+D:\Coder\Code\dotnet\LearnDotne\CS_StructEnum\CS_StructEnum\bin\Debug\netcoreapp3.1\CS_StructEnum.dll
+D:\Coder\Code\dotnet\LearnDotne\CS_StructEnum\CS_StructEnum\bin\Debug\netcoreapp3.1\CS_StructEnum.pdb
+D:\Coder\Code\dotnet\LearnDotne\CS_StructEnum\CS_StructEnum\obj\Debug\netcoreapp3.1\CS_StructEnum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coder\Code\dotnet\LearnDotne\CS_StructEnum\CS_StructEnum\obj\Debug\netcoreapp3.1\CS_StructEnum.AssemblyInfoInputs.cache
+D:\Coder\Code\dotnet\LearnDotne\CS_StructEnum\CS_StructEnum\obj\Debug\netcoreapp3.1\CS_StructEnum.AssemblyInfo.cs
+D:\Coder\Code\dotnet\LearnDotne\CS_StructEnum\CS_StructEnum\obj\Debug\netcoreapp3.1\CS_StructEnum.csproj.CoreCompileInputs.cache
+D:\Coder\Code\dotnet\LearnDotne\CS_StructEnum\CS_StructEnum\obj\Debug\netcoreapp3.1\CS_StructEnum.dll
+D:\Coder\Code\dotnet\LearnDotne\CS_StructEnum\CS_StructEnum\obj\Debug\netcoreapp3.1\CS_StructEnum.pdb
+D:\Coder\Code\dotnet\LearnDotne\CS_StructEnum\CS_StructEnum\obj\Debug\netcoreapp3.1\CS_StructEnum.genruntimeconfig.cache
