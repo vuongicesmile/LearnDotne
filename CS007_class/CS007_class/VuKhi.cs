@@ -28,6 +28,7 @@ namespace CS007_class
                 return dosatthuong;
             }
         }
+        // thuộc tính mặc định
         public string NoiSanXuat { get; set; }
 
 

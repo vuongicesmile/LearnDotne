@@ -1,0 +1,13 @@
+D:\Coder\Code\dotnet\LearnDotne\CS012_String\CS012_String\bin\Debug\netcoreapp3.1\CS012_String.exe
+D:\Coder\Code\dotnet\LearnDotne\CS012_String\CS012_String\bin\Debug\netcoreapp3.1\CS012_String.deps.json
+D:\Coder\Code\dotnet\LearnDotne\CS012_String\CS012_String\bin\Debug\netcoreapp3.1\CS012_String.runtimeconfig.json
+D:\Coder\Code\dotnet\LearnDotne\CS012_String\CS012_String\bin\Debug\netcoreapp3.1\CS012_String.runtimeconfig.dev.json
+D:\Coder\Code\dotnet\LearnDotne\CS012_String\CS012_String\bin\Debug\netcoreapp3.1\CS012_String.dll
+D:\Coder\Code\dotnet\LearnDotne\CS012_String\CS012_String\bin\Debug\netcoreapp3.1\CS012_String.pdb
+D:\Coder\Code\dotnet\LearnDotne\CS012_String\CS012_String\obj\Debug\netcoreapp3.1\CS012_String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coder\Code\dotnet\LearnDotne\CS012_String\CS012_String\obj\Debug\netcoreapp3.1\CS012_String.AssemblyInfoInputs.cache
+D:\Coder\Code\dotnet\LearnDotne\CS012_String\CS012_String\obj\Debug\netcoreapp3.1\CS012_String.AssemblyInfo.cs
+D:\Coder\Code\dotnet\LearnDotne\CS012_String\CS012_String\obj\Debug\netcoreapp3.1\CS012_String.csproj.CoreCompileInputs.cache
+D:\Coder\Code\dotnet\LearnDotne\CS012_String\CS012_String\obj\Debug\netcoreapp3.1\CS012_String.dll
+D:\Coder\Code\dotnet\LearnDotne\CS012_String\CS012_String\obj\Debug\netcoreapp3.1\CS012_String.pdb
+D:\Coder\Code\dotnet\LearnDotne\CS012_String\CS012_String\obj\Debug\netcoreapp3.1\CS012_String.genruntimeconfig.cache
