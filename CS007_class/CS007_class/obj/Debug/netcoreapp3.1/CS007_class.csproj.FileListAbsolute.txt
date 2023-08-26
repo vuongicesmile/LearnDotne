@@ -1,0 +1,13 @@
+D:\Coder\Code\dotnet\LearnDotne\CS007_class\CS007_class\bin\Debug\netcoreapp3.1\CS007_class.exe
+D:\Coder\Code\dotnet\LearnDotne\CS007_class\CS007_class\bin\Debug\netcoreapp3.1\CS007_class.deps.json
+D:\Coder\Code\dotnet\LearnDotne\CS007_class\CS007_class\bin\Debug\netcoreapp3.1\CS007_class.runtimeconfig.json
+D:\Coder\Code\dotnet\LearnDotne\CS007_class\CS007_class\bin\Debug\netcoreapp3.1\CS007_class.runtimeconfig.dev.json
+D:\Coder\Code\dotnet\LearnDotne\CS007_class\CS007_class\bin\Debug\netcoreapp3.1\CS007_class.dll
+D:\Coder\Code\dotnet\LearnDotne\CS007_class\CS007_class\bin\Debug\netcoreapp3.1\CS007_class.pdb
+D:\Coder\Code\dotnet\LearnDotne\CS007_class\CS007_class\obj\Debug\netcoreapp3.1\CS007_class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coder\Code\dotnet\LearnDotne\CS007_class\CS007_class\obj\Debug\netcoreapp3.1\CS007_class.AssemblyInfoInputs.cache
+D:\Coder\Code\dotnet\LearnDotne\CS007_class\CS007_class\obj\Debug\netcoreapp3.1\CS007_class.AssemblyInfo.cs
+D:\Coder\Code\dotnet\LearnDotne\CS007_class\CS007_class\obj\Debug\netcoreapp3.1\CS007_class.csproj.CoreCompileInputs.cache
+D:\Coder\Code\dotnet\LearnDotne\CS007_class\CS007_class\obj\Debug\netcoreapp3.1\CS007_class.dll
+D:\Coder\Code\dotnet\LearnDotne\CS007_class\CS007_class\obj\Debug\netcoreapp3.1\CS007_class.pdb
+D:\Coder\Code\dotnet\LearnDotne\CS007_class\CS007_class\obj\Debug\netcoreapp3.1\CS007_class.genruntimeconfig.cache
