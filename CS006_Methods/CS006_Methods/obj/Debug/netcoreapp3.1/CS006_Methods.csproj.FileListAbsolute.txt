@@ -1,0 +1,13 @@
+D:\Coder\Code\dotnet\LearnDotne\CS006_Methods\CS006_Methods\bin\Debug\netcoreapp3.1\CS006_Methods.exe
+D:\Coder\Code\dotnet\LearnDotne\CS006_Methods\CS006_Methods\bin\Debug\netcoreapp3.1\CS006_Methods.deps.json
+D:\Coder\Code\dotnet\LearnDotne\CS006_Methods\CS006_Methods\bin\Debug\netcoreapp3.1\CS006_Methods.runtimeconfig.json
+D:\Coder\Code\dotnet\LearnDotne\CS006_Methods\CS006_Methods\bin\Debug\netcoreapp3.1\CS006_Methods.runtimeconfig.dev.json
+D:\Coder\Code\dotnet\LearnDotne\CS006_Methods\CS006_Methods\bin\Debug\netcoreapp3.1\CS006_Methods.dll
+D:\Coder\Code\dotnet\LearnDotne\CS006_Methods\CS006_Methods\bin\Debug\netcoreapp3.1\CS006_Methods.pdb
+D:\Coder\Code\dotnet\LearnDotne\CS006_Methods\CS006_Methods\obj\Debug\netcoreapp3.1\CS006_Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coder\Code\dotnet\LearnDotne\CS006_Methods\CS006_Methods\obj\Debug\netcoreapp3.1\CS006_Methods.AssemblyInfoInputs.cache
+D:\Coder\Code\dotnet\LearnDotne\CS006_Methods\CS006_Methods\obj\Debug\netcoreapp3.1\CS006_Methods.AssemblyInfo.cs
+D:\Coder\Code\dotnet\LearnDotne\CS006_Methods\CS006_Methods\obj\Debug\netcoreapp3.1\CS006_Methods.csproj.CoreCompileInputs.cache
+D:\Coder\Code\dotnet\LearnDotne\CS006_Methods\CS006_Methods\obj\Debug\netcoreapp3.1\CS006_Methods.dll
+D:\Coder\Code\dotnet\LearnDotne\CS006_Methods\CS006_Methods\obj\Debug\netcoreapp3.1\CS006_Methods.pdb
+D:\Coder\Code\dotnet\LearnDotne\CS006_Methods\CS006_Methods\obj\Debug\netcoreapp3.1\CS006_Methods.genruntimeconfig.cache
