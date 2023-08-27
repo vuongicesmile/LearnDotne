@@ -1,0 +1,13 @@
+D:\Coder\Code\dotnet\LearnDotne\CS015_NameSpace\CS015_NameSpace\bin\Debug\netcoreapp3.1\CS015_NameSpace.exe
+D:\Coder\Code\dotnet\LearnDotne\CS015_NameSpace\CS015_NameSpace\bin\Debug\netcoreapp3.1\CS015_NameSpace.deps.json
+D:\Coder\Code\dotnet\LearnDotne\CS015_NameSpace\CS015_NameSpace\bin\Debug\netcoreapp3.1\CS015_NameSpace.runtimeconfig.json
+D:\Coder\Code\dotnet\LearnDotne\CS015_NameSpace\CS015_NameSpace\bin\Debug\netcoreapp3.1\CS015_NameSpace.runtimeconfig.dev.json
+D:\Coder\Code\dotnet\LearnDotne\CS015_NameSpace\CS015_NameSpace\bin\Debug\netcoreapp3.1\CS015_NameSpace.dll
+D:\Coder\Code\dotnet\LearnDotne\CS015_NameSpace\CS015_NameSpace\bin\Debug\netcoreapp3.1\CS015_NameSpace.pdb
+D:\Coder\Code\dotnet\LearnDotne\CS015_NameSpace\CS015_NameSpace\obj\Debug\netcoreapp3.1\CS015_NameSpace.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coder\Code\dotnet\LearnDotne\CS015_NameSpace\CS015_NameSpace\obj\Debug\netcoreapp3.1\CS015_NameSpace.AssemblyInfoInputs.cache
+D:\Coder\Code\dotnet\LearnDotne\CS015_NameSpace\CS015_NameSpace\obj\Debug\netcoreapp3.1\CS015_NameSpace.AssemblyInfo.cs
+D:\Coder\Code\dotnet\LearnDotne\CS015_NameSpace\CS015_NameSpace\obj\Debug\netcoreapp3.1\CS015_NameSpace.csproj.CoreCompileInputs.cache
+D:\Coder\Code\dotnet\LearnDotne\CS015_NameSpace\CS015_NameSpace\obj\Debug\netcoreapp3.1\CS015_NameSpace.dll
+D:\Coder\Code\dotnet\LearnDotne\CS015_NameSpace\CS015_NameSpace\obj\Debug\netcoreapp3.1\CS015_NameSpace.pdb
+D:\Coder\Code\dotnet\LearnDotne\CS015_NameSpace\CS015_NameSpace\obj\Debug\netcoreapp3.1\CS015_NameSpace.genruntimeconfig.cache
