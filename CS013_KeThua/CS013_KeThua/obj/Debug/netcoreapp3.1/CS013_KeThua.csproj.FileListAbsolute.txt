@@ -1,0 +1,13 @@
+D:\Coder\Code\dotnet\LearnDotne\CS013_KeThua\CS013_KeThua\bin\Debug\netcoreapp3.1\CS013_KeThua.exe
+D:\Coder\Code\dotnet\LearnDotne\CS013_KeThua\CS013_KeThua\bin\Debug\netcoreapp3.1\CS013_KeThua.deps.json
+D:\Coder\Code\dotnet\LearnDotne\CS013_KeThua\CS013_KeThua\bin\Debug\netcoreapp3.1\CS013_KeThua.runtimeconfig.json
+D:\Coder\Code\dotnet\LearnDotne\CS013_KeThua\CS013_KeThua\bin\Debug\netcoreapp3.1\CS013_KeThua.runtimeconfig.dev.json
+D:\Coder\Code\dotnet\LearnDotne\CS013_KeThua\CS013_KeThua\bin\Debug\netcoreapp3.1\CS013_KeThua.dll
+D:\Coder\Code\dotnet\LearnDotne\CS013_KeThua\CS013_KeThua\bin\Debug\netcoreapp3.1\CS013_KeThua.pdb
+D:\Coder\Code\dotnet\LearnDotne\CS013_KeThua\CS013_KeThua\obj\Debug\netcoreapp3.1\CS013_KeThua.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coder\Code\dotnet\LearnDotne\CS013_KeThua\CS013_KeThua\obj\Debug\netcoreapp3.1\CS013_KeThua.AssemblyInfoInputs.cache
+D:\Coder\Code\dotnet\LearnDotne\CS013_KeThua\CS013_KeThua\obj\Debug\netcoreapp3.1\CS013_KeThua.AssemblyInfo.cs
+D:\Coder\Code\dotnet\LearnDotne\CS013_KeThua\CS013_KeThua\obj\Debug\netcoreapp3.1\CS013_KeThua.csproj.CoreCompileInputs.cache
+D:\Coder\Code\dotnet\LearnDotne\CS013_KeThua\CS013_KeThua\obj\Debug\netcoreapp3.1\CS013_KeThua.dll
+D:\Coder\Code\dotnet\LearnDotne\CS013_KeThua\CS013_KeThua\obj\Debug\netcoreapp3.1\CS013_KeThua.pdb
+D:\Coder\Code\dotnet\LearnDotne\CS013_KeThua\CS013_KeThua\obj\Debug\netcoreapp3.1\CS013_KeThua.genruntimeconfig.cache
