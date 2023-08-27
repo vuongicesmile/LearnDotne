@@ -7,6 +7,11 @@ namespace CS017_Anonymous_example
     internal class Program
     {
 
+        class Abc
+        {
+            public void XinChao() => Console.WriteLine("xin chao C#");
+        }
+
         class SinhVien
         {
             public string HoTen { set; get; }
@@ -17,8 +22,29 @@ namespace CS017_Anonymous_example
         // anouymous - kiểu dữ liệu vô danh 
         // object - thuộc tính - chỉ đọc 
         // new { thuộc tính = giá trị , thuộc tính 2 = giatri2 }
+
+
+        // dymanic - kiểu dữ liệu động
         static void Main(string[] args)
         {
+            Abc a = null;
+            if (a != null) return;
+            a?.XinChao(); // nếu a là null mà cố muốn truy cập đến key bên trong thì sẽ báo lỗi
+
+            // đối với giá trị kiểu tham trị thì không cho phép gán null 
+            //int age = null; => để khai báo kiểu giá trị tham trị
+            int? age;
+            age  = 100;
+
+            if(age.HasValue)
+            {
+                int _age = age.Value;
+                Console.WriteLine(_age);
+            }
+
+            // null , nullable
+            // null : Từ khoá
+
             // khai báo kiểu dữ liệu vô danh
             var sanpham = new
             {
@@ -29,6 +55,9 @@ namespace CS017_Anonymous_example
             // để truy cập kiểu dữ liệu vô danh 
             //Console.WriteLine(sanpham.Ten);
             //Console.WriteLine(sanpham.Gia);
+
+            dynamic tenbien; // khi nào chạy thì biến mới xác định
+            // => nếu lỗi thì chỉ xảy ra khi thực thi thôi
 
             List <SinhVien> cacsinhvien = new List<SinhVien> ()
             {
